@@ -18,9 +18,6 @@ Welcome to my GitHub! I'm a web developer and designer based in **South Africa**
 * **Version Control:** Git, GitHub 
 * **Frameworks:** React, Express, Prisma, Postgresql, MongoDB, Tailwindcss
 
-## 📈 GitHub Stats
-*(You can use a tool like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to generate a dynamic card here)*
-
 ## 🌍 Let's Connect
 
 * **LinkedIn:** [in/mpho-lebona](https://linkedin.com/in/mpho-lebona)
