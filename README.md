@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a web developer and designer based in **South Africa**
 * **Backend & Architecture:** Node.js, RESTful APIs, Backend Business Logic
 * **Design:** UI/UX Principles, Web Design
 * **Version Control:** Git, GitHub 
-*(Pro-tip: Add any specific frameworks like React, Vue, Express, or databases you use here!)*
+* React, Express, Prisma, Postgresql, MongoDB, Tailwindcss
 
 ## 📈 GitHub Stats
 *(You can use a tool like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to generate a dynamic card here)*
